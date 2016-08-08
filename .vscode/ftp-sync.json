@@ -1,0 +1,16 @@
+{
+    "remotePath": "/home/sgireddy/code/sri",
+    "host": "192.168.1.27", //sbox03
+    "username": "sgireddy",
+    "password": "sa#dscm1",
+    "port": 22,
+    "protocol": "sftp",
+    "uploadOnSave": true,
+    "passive": false,
+    "debug": false,
+    "privateKeyPath": null,
+    "ignore": [
+        "\\.vscode",
+        "\\.git"
+    ]
+}
