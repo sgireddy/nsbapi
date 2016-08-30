@@ -4,7 +4,7 @@
   "private": true,
   "repository": {
     "type": "git",
-    "url": "https://meadow.visualstudio.com/_git/nsbapi"
+    "url": "https://github.com/sgireddy/nsbapi"
   },
   "dependencies": {
     "async": "^1.5.0",
